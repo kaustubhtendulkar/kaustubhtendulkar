@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Dynamics 365 CE & Power Platform Freelance Consultant</b><br/>
-  Solution Architecture · C# Plugins · Power Platform · Azure DevOps · Integrations
+  Solution Designing and Development · C# Plugins · Power Platform · Azure DevOps · Integrations
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@ Currently working as a **freelance D365 consultant** based in Amsterdam, with a 
 
 ## What I Do
 
-- **Solution Designing** — designing Dataverse/D365 solutions aligned with business goals and platform standards  
+- **Solution Designing** — Designing Dataverse/D365 solutions aligned with business goals and platform standards  
 - **Plugin & Automation Development** — C# plugins, custom workflows, business rules, Power Automate flows  
 - **Integration Engineering** — REST/SOAP APIs, OAuth/Azure AD, Azure Service Bus, Azure Logic Apps  
 - **ALM & DevOps** — Azure DevOps CI/CD pipelines, solution packaging, multi-environment deployment  
 - **Data Migration** — KingswaySoft SSIS packages, CRM-to-CRM and legacy system migrations  
 - **Customisation** — Forms, views, ribbons, sitemaps, dashboards, reports, embedded apps  
-- **Mentoring** — technical leadership, onboarding new joiners, code and architecture reviews
+- **Mentoring** — Technical leadership, onboarding new joiners, code and architecture reviews
 
 ---
 
