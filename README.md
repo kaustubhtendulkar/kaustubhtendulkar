@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a Senior Dynamics 365 CE and Dataverse consultant with **13+ years** of experience delivering enterprise CRM and Power Platform solutions across the Netherlands and globally.
+I am a Senior Dynamics 365 CE and Powerplatform consultant with **13+ years** of experience delivering enterprise CRM and Power Platform solutions across the Netherlands and globally.
 
 I specialise in end-to-end solution delivery — from requirements discovery and data modelling through to custom business logic development, integration design, security architecture, and release automation. My goal is always scalable, maintainable, and production-ready solutions.
 
