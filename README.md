@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kaustubh Tendulkar 👋</h1>
 
 <p align="center">
-  <b>Senior Dynamics 365 CE & Dataverse Freelance Consultant</b><br/>
+  <b>Senior Dynamics 365 CE & Power Platform Freelance Consultant</b><br/>
   Solution Architecture · C# Plugins · Power Platform · Azure DevOps · Integrations
 </p>
 
@@ -28,7 +28,7 @@ Currently working as a **freelance D365 consultant** based in Amsterdam, with a 
 
 ## What I Do
 
-- **Solution Architecture** — designing Dataverse/D365 solutions aligned with business goals and platform standards  
+- **Solution Designing** — designing Dataverse/D365 solutions aligned with business goals and platform standards  
 - **Plugin & Automation Development** — C# plugins, custom workflows, business rules, Power Automate flows  
 - **Integration Engineering** — REST/SOAP APIs, OAuth/Azure AD, Azure Service Bus, Azure Logic Apps  
 - **ALM & DevOps** — Azure DevOps CI/CD pipelines, solution packaging, multi-environment deployment  
