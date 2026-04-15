@@ -45,16 +45,16 @@ Currently exploring how **Copilot Studio**, **AI Builder**, and **Azure OpenAI**
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-| Repository | Description |
+| Project | Description |
 |---|---|
-| **[PowerPlatform-Plugins-Development](https://github.com/kaustubhtendulkar/PowerPlatform-Plugins-Development)** | Production-ready C# plugin template with 4-layer architecture, Reqnroll BDD testing, DAXIF deployment, and GitHub Copilot Skills integration |
-| **[PowerPlatform-Migration-Helper-Plugins](https://github.com/kaustubhtendulkar/PowerPlatform-Migration-Helper-Plugins)** | Custom API plugins and data models for ADF-based Dataverse data migration — activity party, M:N, and high-volume scenarios |
-| **[PowerPlatform-Plugins-Development-AzFunctions](https://github.com/kaustubhtendulkar/PowerPlatform-Plugins-Development-AzFunctions)** | Azure Functions integration layer for Dynamics 365 — webhook relay, Service Bus triggers, and serverless orchestration |
-| **[PowerPlatform-TypeScripts-Development](https://github.com/kaustubhtendulkar/PowerPlatform-TypeScripts-Development)** | TypeScript web resource template for model-driven apps — modular event handlers, transpilation pipeline, deployment-ready |
-| **[PowerPlatform-AIO-Project-Template](https://github.com/kaustubhtendulkar/PowerPlatform-AIO-Project-Template)** | All-in-one Power Platform project template — plugins, web resources, solution packaging, and ALM pipelines in a single scaffold |
-| **[CentralSkillsRepository](https://github.com/kaustubhtendulkar/CentralSkillsRepository)** | Centralized library of GitHub Copilot Skills — reusable AI workflow packages synced across workspaces via push/pull mechanism |
+| **[PowerPlatform-Plugins-Development](https://github.com/kaustubhtendulkar/PowerPlatform-Plugins-Development-showcase)** | Production-ready C# plugin template with 4-layer architecture, Reqnroll BDD testing, DAXIF deployment, and GitHub Copilot Skills integration |
+| **PowerPlatform-Migration-Helper-Plugins** | Custom API plugins and data models for ADF-based Dataverse data migration — activity party, M:N, and high-volume scenarios |
+| **PowerPlatform-Plugins-Development-AzFunctions** | Azure Functions integration layer for Dynamics 365 — webhook relay, Service Bus triggers, and serverless orchestration |
+| **PowerPlatform-TypeScripts-Development** | TypeScript web resource template for model-driven apps — modular event handlers, transpilation pipeline, deployment-ready |
+| **PowerPlatform-AIO-Project-Template** | All-in-one Power Platform project template — plugins, web resources, solution packaging, and ALM pipelines in a single scaffold |
+| **CentralSkillsRepository** | Centralized library of GitHub Copilot Skills — reusable AI workflow packages synced across workspaces via push/pull mechanism |
 
 ---
 
