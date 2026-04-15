@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-	<b>Senior Dynamics 365 CE & Power Platform Consultant | Solution Architect</b><br/>
-	Plugin Architecture • Azure Integration • Data Migration • AI-Assisted Development • CI/CD & ALM
+	<b>Dynamics 365 CE Consultant at HSO | Bridging CRM & Agentic AI</b><br/>
+	Copilot Studio • AI Builder • Plugin Architecture • Azure Integration • Data Migration • CI/CD & ALM
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-kaustubhtendulkar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 	<img src="https://img.shields.io/badge/Location-Netherlands-orange?style=flat" alt="Location" />
-	<img src="https://img.shields.io/badge/Experience-13%2B%20Years-brightgreen?style=flat" alt="Experience" />
+	<img src="https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=flat" alt="Experience" />
 	<img src="https://img.shields.io/badge/MCPS-Microsoft_Certified-blue?style=flat&logo=microsoft" alt="MCPS" />
 	<img src="https://img.shields.io/badge/GitHub_Copilot-Skills_Author-8957e5?style=flat&logo=githubcopilot&logoColor=white" alt="Copilot Skills" />
 </p>
@@ -23,11 +23,11 @@
 
 ## About Me
 
-Dynamics 365 CE and Power Platform consultant with **13+ years** of experience delivering enterprise CRM solutions across discovery, architecture, development, integration, migration, and ALM.
+Dynamics 365 CE and Power Platform consultant with **14+ years** of experience delivering enterprise CRM solutions across discovery, architecture, development, integration, migration, and ALM — now at the intersection of **CRM and Agentic AI**.
 
 I specialize in building **scalable plugin architectures**, **Azure integration patterns**, and **data migration frameworks** with strong engineering practices — BDD testing, CI/CD governance, and infrastructure-as-code.
 
-Recently, I've been pioneering **AI-assisted enterprise development** by authoring reusable GitHub Copilot Skills that encode domain expertise into shareable, version-controlled workflow packages — enabling teams to scaffold production-ready Dynamics 365 solutions in minutes.
+Currently exploring how **Copilot Studio**, **AI Builder**, and **Azure OpenAI** are reshaping business applications. I author reusable **GitHub Copilot Skills** that encode domain expertise into shareable, version-controlled workflow packages — enabling teams to scaffold production-ready Dynamics 365 solutions in minutes.
 
 ---
 
@@ -41,7 +41,7 @@ Recently, I've been pioneering **AI-assisted enterprise development** by authori
 | **Data Migration** | ADF-based frameworks, activity party & M:N migration, staging tables, ID-mapping strategies |
 | **TypeScript / PCF** | Model-driven app web resources, PCF controls, structured transpilation flows |
 | **ALM & DevOps** | Multi-environment Azure Pipelines, solution packaging, DAXIF sync, XrmContext generation |
-| **AI Tooling** | GitHub Copilot Skills authoring, centralized skill distribution, AI-driven code scaffolding |
+| **AI Tooling** | Copilot Studio, AI Builder, Agentic AI patterns, GitHub Copilot Skills authoring, centralized skill distribution, AI-driven code scaffolding |
 
 ---
 
@@ -137,7 +137,7 @@ Scenario: Reject accounts without a name
 | **Azure** | Azure DevOps, Service Bus, Logic Apps, Functions, Data Factory, Blob Storage |
 | **Testing** | Reqnroll (BDD), FakeXrmEasy, NUnit |
 | **Deployment** | DAXIF, XrmContext, Azure Pipelines (YAML), PowerShell |
-| **AI Tooling** | GitHub Copilot, Copilot Skills, VS Code Agent Mode |
+| **AI Tooling** | GitHub Copilot, Copilot Skills, Copilot Studio, AI Builder, VS Code Agent Mode |
 | **Data** | KingswaySoft SSIS, SQL Server, ADF Migration Pipelines |
 
 ---
@@ -172,6 +172,7 @@ Scenario: Reject accounts without a name
 - Built **production-grade developer tooling** — translation tools, audit frameworks, release automation, and migration accelerators
 - Established **CI/CD delivery practices** for multi-environment Dynamics 365 deployments with Azure DevOps
 - Pioneered **AI-assisted development workflows** using GitHub Copilot Skills for repeatable enterprise scaffolding
+- Exploring **Copilot Studio** and **AI Builder** to embed intelligent automation into Dynamics 365 and Power Platform solutions
 - Mentored delivery teams on **engineering quality**, architecture standards, and testability patterns
 
 ---
