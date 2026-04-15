@@ -13,6 +13,9 @@
 	<a href="https://www.linkedin.com/in/kaustubhtendulkar/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-kaustubhtendulkar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
+	<a href="https://kaustubhtendulkar.github.io" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-kaustubhtendulkar.github.io-FF5722?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+	</a>
 	<img src="https://img.shields.io/badge/Location-Netherlands-orange?style=flat" alt="Location" />
 	<img src="https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=flat" alt="Experience" />
 	<img src="https://img.shields.io/badge/MCPS-Microsoft_Certified-blue?style=flat&logo=microsoft" alt="MCPS" />
@@ -182,6 +185,9 @@ Scenario: Reject accounts without a name
 ## Connect
 
 <p>
+	<a href="https://kaustubhtendulkar.github.io" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+	</a>
 	<a href="https://www.linkedin.com/in/kaustubhtendulkar/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
