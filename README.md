@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-	<b>Senior Dynamics 365 CE and Power Platform Freelance Consultant</b><br/>
-	Solution Architecture • C# Plugins • Power Platform • Azure DevOps • Integrations
+	<b>Senior Dynamics 365 CE & Power Platform Consultant | Solution Architect</b><br/>
+	Plugin Architecture • Azure Integration • Data Migration • AI-Assisted Development • CI/CD & ALM
 </p>
 
 <p align="center">
@@ -16,57 +16,114 @@
 	<img src="https://img.shields.io/badge/Location-Netherlands-orange?style=flat" alt="Location" />
 	<img src="https://img.shields.io/badge/Experience-13%2B%20Years-brightgreen?style=flat" alt="Experience" />
 	<img src="https://img.shields.io/badge/MCPS-Microsoft_Certified-blue?style=flat&logo=microsoft" alt="MCPS" />
+	<img src="https://img.shields.io/badge/GitHub_Copilot-Skills_Author-8957e5?style=flat&logo=githubcopilot&logoColor=white" alt="Copilot Skills" />
 </p>
 
 ---
 
 ## About Me
 
-I am a Dynamics 365 CE and Power Platform consultant with 13+ years of experience delivering enterprise CRM solutions across discovery, architecture, development, integration, migration, and ALM.
+Dynamics 365 CE and Power Platform consultant with **13+ years** of experience delivering enterprise CRM solutions across discovery, architecture, development, integration, migration, and ALM.
 
-I focus on scalable and maintainable implementations with strong engineering practices: plugin architecture, integration reliability, CI/CD governance, and migration safety.
+I specialize in building **scalable plugin architectures**, **Azure integration patterns**, and **data migration frameworks** with strong engineering practices — BDD testing, CI/CD governance, and infrastructure-as-code.
 
-I use GitHub to present selected architecture patterns, reusable accelerators, and delivery templates without exposing client-sensitive implementation details.
+Recently, I've been pioneering **AI-assisted enterprise development** by authoring reusable GitHub Copilot Skills that encode domain expertise into shareable, version-controlled workflow packages — enabling teams to scaffold production-ready Dynamics 365 solutions in minutes.
 
 ---
 
 ## What I Build
 
-- Dynamics 365 CE and Dataverse solution architecture
-- C# plugin implementations and plugin modernization from legacy systems
-- TypeScript and JavaScript web resources for model-driven apps
-- PCF controls for reusable and rich UI components
-- Azure integration patterns (Service Bus, Functions, Logic Apps)
-- ALM pipelines for controlled multi-environment deployments
-- Data migration frameworks (including many-to-many and activity party scenarios)
-
----
-
-## Featured Work Glimpse
-
-This profile intentionally shows a curated glimpse of my work. Full implementation repositories can remain private when client-sensitive.
-
-| Area | What It Shows |
+| Domain | Capabilities |
 |---|---|
-| Plugin Development Template | 4-layer architecture, reusable scaffolding, test-ready patterns for new builds and legacy plugin modernization |
-| TypeScript Web Resource Template | Structured source layout, transpilation flow, modular event handlers for model-driven app scripting |
-| PCF Control Starter | Reusable component boilerplate, packaging approach, and solution integration structure |
-| D365 ALM and DevOps Template | Export, build, deploy pipeline patterns with environment-aware deployment scripts |
-| Integration and Migration Toolkit | Service Endpoint to Service Bus patterns, Function relay architecture, and migration accelerators |
+| **Plugin Development** | 4-layer plugin architecture (Plugin → Controller → Validator → Repository), fluent registration API, DAXIF deployment |
+| **Testing** | BDD with Reqnroll + FakeXrmEasy, strongly-typed entity mocking, automated coverage |
+| **Azure Integration** | Service Bus, Azure Functions, Logic Apps — relay patterns, webhook endpoints, high-volume migration orchestration |
+| **Data Migration** | ADF-based frameworks, activity party & M:N migration, staging tables, ID-mapping strategies |
+| **TypeScript / PCF** | Model-driven app web resources, PCF controls, structured transpilation flows |
+| **ALM & DevOps** | Multi-environment Azure Pipelines, solution packaging, DAXIF sync, XrmContext generation |
+| **AI Tooling** | GitHub Copilot Skills authoring, centralized skill distribution, AI-driven code scaffolding |
 
 ---
 
 ## Featured Repositories
 
-Replace these placeholder links with your actual public showcase repositories.
-
-| Repository | Focus |
+| Repository | Description |
 |---|---|
-| [D365 Plugin Template](https://github.com/your-username/d365-plugin-template) | Reusable C# plugin starter with architecture, testing, and deployment patterns |
-| [D365 Web Resource Template](https://github.com/your-username/d365-webresource-template) | TypeScript-based CRM scripting template for scalable client-side customizations |
-| [D365 PCF Starter](https://github.com/your-username/d365-pcf-starter) | PCF starter for reusable controls and solution packaging |
-| [D365 ALM Templates](https://github.com/your-username/d365-alm-templates) | Azure DevOps YAML and deployment automation for Dataverse environments |
-| [D365 Integration Patterns](https://github.com/your-username/d365-integration-patterns) | Service Bus, Functions, and integration workflow patterns |
+| **[PowerPlatform-Plugins-Development](https://github.com/kaustubhtendulkar/PowerPlatform-Plugins-Development)** | Production-ready C# plugin template with 4-layer architecture, Reqnroll BDD testing, DAXIF deployment, and GitHub Copilot Skills integration |
+| **[PowerPlatform-Migration-Helper-Plugins](https://github.com/kaustubhtendulkar/PowerPlatform-Migration-Helper-Plugins)** | Custom API plugins and data models for ADF-based Dataverse data migration — activity party, M:N, and high-volume scenarios |
+| **[PowerPlatform-Plugins-Development-AzFunctions](https://github.com/kaustubhtendulkar/PowerPlatform-Plugins-Development-AzFunctions)** | Azure Functions integration layer for Dynamics 365 — webhook relay, Service Bus triggers, and serverless orchestration |
+| **[PowerPlatform-TypeScripts-Development](https://github.com/kaustubhtendulkar/PowerPlatform-TypeScripts-Development)** | TypeScript web resource template for model-driven apps — modular event handlers, transpilation pipeline, deployment-ready |
+| **[PowerPlatform-AIO-Project-Template](https://github.com/kaustubhtendulkar/PowerPlatform-AIO-Project-Template)** | All-in-one Power Platform project template — plugins, web resources, solution packaging, and ALM pipelines in a single scaffold |
+| **[CentralSkillsRepository](https://github.com/kaustubhtendulkar/CentralSkillsRepository)** | Centralized library of GitHub Copilot Skills — reusable AI workflow packages synced across workspaces via push/pull mechanism |
+
+---
+
+## GitHub Copilot Skills
+
+I author and maintain a library of **GitHub Copilot Skills** — AI workflow packages that encode deep domain expertise into versioned, shareable accelerators.
+
+```
+┌──────────────────────────┐         ┌──────────────────────────────┐
+│  Any Workspace Repo      │         │  CentralSkillsRepository     │
+│  .github/skills/         │ ──push──│  skills/                     │
+│    Sync-Skills.ps1       │         │    PowerPlatform-Plugin-...  │
+│    PowerPlatform-Plugin/ │ ◄─pull──│    dataverse-migration-...   │
+└──────────────────────────┘         └──────────────────────────────┘
+```
+
+**Published Skills:**
+
+| Skill | What It Does |
+|---|---|
+| `PowerPlatform-Plugin-Daxif` | Scaffolds complete Dynamics 365 plugin solutions — plugins, validators, controllers, repositories, Custom APIs, BDD tests, DAXIF deployment scripts |
+| `dataverse-migration-scaffolder` | Scaffolds ADF migration projects — staging tables, Custom API plugins, Logic App ARM templates, multi-instance deployment |
+
+> Skills are synchronized across repos using a `Sync-Skills.ps1` push/pull mechanism. Ask Copilot to scaffold a plugin and it automatically applies the right patterns.
+
+---
+
+## Architecture Patterns
+
+<details>
+<summary><b>Plugin 4-Layer Architecture</b></summary>
+
+```
+Plugin (Registration & Routing)
+  └── Controller (Orchestration)
+        ├── Validator (Business Rules)
+        ├── DefaultValueProvider (Computed Defaults)
+        └── Repository (Data Access)
+```
+
+- Fluent plugin registration via `RegisterPluginStep<T>()`
+- `IDataverseContext` for dependency injection and testability
+- `StronglyTypedValidator<T>` with `ValidationResult` pattern
+- `QueryExpressionBuilder<T>` for type-safe complex queries
+
+</details>
+
+<details>
+<summary><b>BDD Testing with Reqnroll + FakeXrmEasy</b></summary>
+
+```gherkin
+Feature: Account Validation
+
+Scenario: Reject accounts without a name
+    Given the following plugin registration
+        | Stage          | Message Name | Execution Mode | PrimaryEntityName |
+        | PreValidation  | Create       | Synchronous    | account           |
+    And an account as Target with the following values
+        | Property | Value |
+        | name     |       |
+    When the plugin AccountValidationPlugin is executed
+    Then the plugin throws an error
+```
+
+- Each plugin is tested via Gherkin feature files
+- FakeXrmEasy provides in-memory CRM context
+- No live environment needed for CI test runs
+
+</details>
 
 ---
 
@@ -74,33 +131,24 @@ Replace these placeholder links with your actual public showcase repositories.
 
 | Domain | Technologies |
 |---|---|
-| CRM / Platform | Dynamics 365 CE, Dataverse, Power Platform |
-| Development | C#, .NET, JavaScript, TypeScript |
-| SDK / APIs | Dataverse SDK, Web API, REST, SOAP, OAuth |
-| Azure | Azure DevOps, Service Bus, Logic Apps, Functions, Blob Storage |
-| Data | KingswaySoft SSIS, SQL Server, Data Migration |
-| CI/CD | Azure DevOps Pipelines, YAML, PowerShell |
-| UI | HTML, CSS, jQuery, Kendo UI |
-| Testing | FakeXrmEasy, NUnit |
+| **CRM / Platform** | Dynamics 365 CE, Dataverse, Power Platform, Power Pages |
+| **Development** | C#, .NET Framework 4.6.2, TypeScript, JavaScript |
+| **SDK / APIs** | Dataverse SDK, Web API, Custom APIs, REST, OAuth |
+| **Azure** | Azure DevOps, Service Bus, Logic Apps, Functions, Data Factory, Blob Storage |
+| **Testing** | Reqnroll (BDD), FakeXrmEasy, NUnit |
+| **Deployment** | DAXIF, XrmContext, Azure Pipelines (YAML), PowerShell |
+| **AI Tooling** | GitHub Copilot, Copilot Skills, VS Code Agent Mode |
+| **Data** | KingswaySoft SSIS, SQL Server, ADF Migration Pipelines |
 
 ---
 
 ## Certifications
 
-### Selected
-- AZ-900: Microsoft Azure Fundamentals
-- MB2-716: Dynamics 365 Customization and Configuration
-- MCPS: Microsoft Certified Professional
-
-### Certification Gallery
-
 <p>
-	<img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
-	<img src="https://img.shields.io/badge/MB2--716-Dynamics%20365%20Customization-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MB2-716" />
+	<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+	<img src="https://img.shields.io/badge/MB2--716-D365%20Customization-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MB2-716" />
 	<img src="https://img.shields.io/badge/MCPS-Microsoft%20Certified-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCPS" />
 </p>
-
-If you want, you can later replace these badge-style highlights with certificate images stored in an `assets/certifications/` folder.
 
 <details>
 <summary>View Full Certification List</summary>
@@ -120,22 +168,21 @@ If you want, you can later replace these badge-style highlights with certificate
 
 ## Experience Highlights
 
-- Delivered multiple enterprise CRM modules and enhancements for large-scale banking and consulting engagements
-- Built production-grade tools for translation, auditing, release updates, and migration acceleration
-- Established CI/CD delivery practices for multi-environment Dynamics 365 deployments
-- Mentored delivery teams on engineering quality and architecture standards
+- Delivered **enterprise CRM modules** for large-scale banking and consulting engagements across Europe
+- Built **production-grade developer tooling** — translation tools, audit frameworks, release automation, and migration accelerators
+- Established **CI/CD delivery practices** for multi-environment Dynamics 365 deployments with Azure DevOps
+- Pioneered **AI-assisted development workflows** using GitHub Copilot Skills for repeatable enterprise scaffolding
+- Mentored delivery teams on **engineering quality**, architecture standards, and testability patterns
 
 ---
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/kaustubhtendulkar](https://www.linkedin.com/in/kaustubhtendulkar/)
-- Email: info.ktendulkar@gmail.com
-
-<!--
-Suggested local assets for this README:
-- assets/profile-photo.png
-- assets/certifications/az-900.png
-- assets/certifications/mb2-716.png
-- assets/certifications/mcps.png
--->
+<p>
+	<a href="https://www.linkedin.com/in/kaustubhtendulkar/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="mailto:info.ktendulkar@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+</p>
