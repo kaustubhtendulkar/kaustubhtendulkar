@@ -145,14 +145,16 @@ Scenario: Reject accounts without a name
 ## Certifications
 
 <p>
+	<img src="https://img.shields.io/badge/PL--400-Power%20Platform%20Developer-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-400" />
+	<img src="https://img.shields.io/badge/PL--200-Power%20Platform%20Functional%20Consultant-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-200" />
 	<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
-	<img src="https://img.shields.io/badge/MB2--716-D365%20Customization-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MB2-716" />
-	<img src="https://img.shields.io/badge/MCPS-Microsoft%20Certified-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCPS" />
 </p>
 
 <details>
 <summary>View Full Certification List</summary>
 
+- PL-400 — Power Platform Developer Associate (May 2025)
+- PL-200 — Power Platform Functional Consultant Associate (Apr 2025)
 - AZ-900 — Microsoft Azure Fundamentals (Mar 2019)
 - MB2-716 — Dynamics 365 Customization and Configuration (Dec 2018)
 - MB2-712 — Dynamics CRM 2016 Customization and Configuration (Apr 2017)
