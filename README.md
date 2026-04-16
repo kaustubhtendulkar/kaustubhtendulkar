@@ -53,9 +53,9 @@ Currently exploring how **Copilot Studio**, **AI Builder**, and **Azure OpenAI**
 | Project | Description |
 |---|---|
 | **[PowerPlatform-Plugins-Development](https://github.com/kaustubhtendulkar/PowerPlatform-Plugins-Development-showcase)** | Production-ready C# plugin template with 4-layer architecture, Reqnroll BDD testing, DAXIF deployment, and GitHub Copilot Skills integration |
-| **PowerPlatform-Migration-Helper-Plugins** | Custom API plugins and data models for ADF-based Dataverse data migration — activity party, M:N, and high-volume scenarios |
+| **[PowerPlatform-Migration-Helper-Plugins](https://github.com/kaustubhtendulkar/PowerPlatform-Migration-Helper-Plugins-showcase)** | Enterprise migration framework for Activity Parties and N:N relationships via Custom API plugins, Azure Logic Apps orchestration, and ARM-templated infrastructure-as-code |
 | **PowerPlatform-Plugins-Development-AzFunctions** | Azure Functions integration layer for Dynamics 365 — webhook relay, Service Bus triggers, and serverless orchestration |
-| **PowerPlatform-TypeScripts-Development** | TypeScript web resource template for model-driven apps — modular event handlers, transpilation pipeline, deployment-ready |
+| **[PowerPlatform-TypeScripts-Development](https://github.com/kaustubhtendulkar/PowerPlatform-TypeScripts-Development-showcase)** | TypeScript web resource framework for model-driven apps — modular event handlers, webpack transpilation pipeline, ESLint/Prettier, spkl deployment |
 | **PowerPlatform-AIO-Project-Template** | All-in-one Power Platform project template — plugins, web resources, solution packaging, and ALM pipelines in a single scaffold |
 | **CentralSkillsRepository** | Centralized library of GitHub Copilot Skills — reusable AI workflow packages synced across workspaces via push/pull mechanism |
 
@@ -79,6 +79,7 @@ I author and maintain a library of **GitHub Copilot Skills** — AI workflow pac
 | Skill | What It Does |
 |---|---|
 | `PowerPlatform-Plugin-Daxif` | Scaffolds complete Dynamics 365 plugin solutions — plugins, validators, controllers, repositories, Custom APIs, BDD tests, DAXIF deployment scripts |
+| `powerplatform-typescript` | Scaffolds TypeScript web resource projects — webpack build pipeline, ESLint/Prettier, XrmDefinitelyTyped, spkl deployment, modular form event handlers |
 | `dataverse-migration-scaffolder` | Scaffolds ADF migration projects — staging tables, Custom API plugins, Logic App ARM templates, multi-instance deployment |
 
 > Skills are synchronized across repos using a `Sync-Skills.ps1` push/pull mechanism. Ask Copilot to scaffold a plugin and it automatically applies the right patterns.
